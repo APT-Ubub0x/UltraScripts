@@ -56,7 +56,7 @@ Create a new branch (e.g., feature-new-script)
 Commit your changes
 Submit a pull request
 License
-UltraScripts is released under the  license. See the LICENSE file for more details.
+UltraScripts is released under the GPL license. See the LICENSE file for more details.
 
 - 💻 Author: Ubub0x
 - 📅 Creation Date: 07/2024
